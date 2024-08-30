@@ -1,6 +1,43 @@
+# 翻墙
+mzz2017/v2raya
+
+# Web 服务
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+httpd
+tomcat
+
+# 内容管理
+wordpress
+nextcloud
+
+# 数据库
+phpmyadmin
+postgres
+redis
+mongo
+mysql
+mariadb
+
+# Docker 注册表
+docker
+registry
+
+# 编程语言、编译器
+bash
+python
+node
+golang
+ruby
+php
+perl
+rust
+gcc
+
+# 操作系统
+ubuntu
+debian
+fedora
+oraclelinux
+rockylinux
+archlinux
+
