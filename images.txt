@@ -1,10 +1,8 @@
-# 翻墙
+# 必装
 mzz2017/v2raya
-
-# 文件服务
 dperson/samba
-
 xhofe/alist:latest
+rclone/rclone:latest
 
 # Web 服务
 nginx
