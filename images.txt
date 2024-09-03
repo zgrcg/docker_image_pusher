@@ -1,4 +1,4 @@
-# 必装
+# 必安装
 mzz2017/v2raya
 dperson/samba
 xhofe/alist:latest
