@@ -4,6 +4,8 @@ mzz2017/v2raya
 # 文件服务
 dperson/samba
 
+xhofe/alist:latest
+
 # Web 服务
 nginx
 httpd
