@@ -3,6 +3,7 @@ mzz2017/v2raya
 dperson/samba
 xhofe/alist:latest
 rclone/rclone:latest
+johngong/baidunetdisk
 
 # Web 服务
 nginx
