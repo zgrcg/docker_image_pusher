@@ -5,8 +5,6 @@ xhofe/alist:latest
 rclone/rclone:latest
 johngong/baidunetdisk
 
-nextcloud
-
 # Web 服务
 nginx
 httpd
