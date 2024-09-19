@@ -4,6 +4,7 @@ dperson/samba
 xhofe/alist:latest
 rclone/rclone:latest
 johngong/baidunetdisk
+whyour/qinglong:latest
 
 # Web 服务
 nginx
